@@ -14,7 +14,7 @@ You can find the deployed project at https://www.savethisjob.com
 |                                       [Michelle Scott](https://github.com/scottmm374)                                        |                                       [Sara Pettigrew](https://github.com/spettigrew)                                        |                                       [Aaron Spurgeon](https://github.com/aaronspurgeon)                                        |                                       [Jonathan Taylor](https://github.com/jonyonson)                                        | 
 |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/scottmm374)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/spettigrew)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/aaronspurgeon)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/jonyonson)
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/scottmm374)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/spettigrew)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/aaronspurgeon)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/jonyonson)           |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/michelle-scott) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/sara-pettigrew-42203218b) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/aaron-spurgeon-9919a7183) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jonathan-craig-taylor) |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/scottmm374/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/sara-pettigrew-42203218b) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/aaron-spurgeon-9919a7183) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jonathan-craig-taylor) |
 
 <br>
 <br>
@@ -32,7 +32,10 @@ Trello Board - https://trello.com/b/cvKexAA0/labspt8-job-book
 
 Product Canvas - https://www.notion.so/Save-this-Job-d479015f772845d8b86099d2a9acb252
 
-UX Design files - https://www.figma.com/file/kgXSUPtM7EBnAMRLt9lcMn/Save-this-Job?node-id=0%3A1
+UX Design files:
+[initial Concepts](https://www.figma.com/file/RLlCKrxirCCShTzsI8afaa/FinalProduct-IDeas-Rough-draft?node-id=0%3A1)|
+[Designs for Logo,Icon and color scheme](https://www.figma.com/file/N5HlaYqbgo24e5FlqtdnA6/Logo-Ideas?node-id=27%3A2)|
+[Final and Future features](https://www.figma.com/file/NO03mPCZhWXDIiLRP1dCNr/Future-releases?node-id=1%3A3)
 
 #### Description of Save this Job project:
 
